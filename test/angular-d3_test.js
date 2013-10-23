@@ -1,6 +1,6 @@
 'use strict';
 
-exports['angularD3js'] = {
+exports['angularD3'] = {
   setUp: function(done) {
     // setup here
     done();
