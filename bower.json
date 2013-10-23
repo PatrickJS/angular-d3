@@ -1,0 +1,22 @@
+{
+  "name": "angular-d3js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/gdi2290/angular-d3js",
+  "authors": [
+    "gdi2290 <github@gdi2290.com>"
+  ],
+  "main": "angular-d3js.js",
+  "description": "Providing the method $off for $rootScope in Angular.js",
+  "ignore": [
+    "**/.*",
+    "*.yml",
+    "*.xml",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.0"
+  }
+}
