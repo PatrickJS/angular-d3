@@ -1,10 +1,10 @@
 {
-  "name": "angular-d3js",
+  "name": "angular-d3",
   "version": "0.0.1",
-  "main": "angular-d3js.js",
+  "main": "angular-d3.js",
   "description": "d3 for Angular.js",
-  "homepage": "https://github.com/gdi2290/angular-d3js",
-  "bugs": "https://github.com/gdi2290/angular-d3js/issues",
+  "homepage": "https://github.com/gdi2290/angular-d3",
+  "bugs": "https://github.com/gdi2290/angular-d3/issues",
   "author": {
     "name": "Patrick Stapleton",
     "email": "patrick@gdi2290.com",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:gdi2290/angular-d3js.git"
+    "url": "git@github.com:gdi2290/angular-d3.git"
   },
   "licenses": [
     {
