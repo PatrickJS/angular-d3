@@ -18,7 +18,7 @@ module.exports = function (grunt) {
         src: 'Gruntfile.js'
       },
       lib: {
-        src: ['angular-d3js.js']
+        src: ['angular-d3.js']
       },
       test: {
         src: ['test/**/*.js']
