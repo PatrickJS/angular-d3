@@ -54,4 +54,4 @@ module.provider('D3', function() {
   }
 });
 
-}());
+}(angular.module('angular-d3', [])));
