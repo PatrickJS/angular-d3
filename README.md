@@ -1,4 +1,4 @@
-# angular-d3
+# angular-d3 [![Build Status](https://travis-ci.org/gdi2290/angular-d3.png?branch=master)](https://travis-ci.org/gdi2290/angular-d3)
 d3 for Angular.js
 
 #How do I add this to my project?
