@@ -12,7 +12,7 @@ You can download angular-d3 by:
 
 ````html
 <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.3.3/d3.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.0-rc.3/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js"></script>
 <script src="app/bower_components/angular-d3/angular-d3.js"></script>
 <script>
   angular.module('YOUR_APP', [
